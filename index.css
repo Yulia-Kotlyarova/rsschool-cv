@@ -1,0 +1,18 @@
+
+body {
+	margin: 30px auto;
+	max-width: 700px;
+	font-family: "Arial", sans-serif;
+	font-weight: 200;
+	font-size: 14px;	
+}
+p, h2 {
+	margin: 0 0 16px;	
+}
+
+h2 {
+	font: 21px Arial, sans-serif;
+}
+img {
+	margin-bottom: 20px;
+}
